@@ -1,0 +1,8 @@
+1.- por la compatibilidad que tienen los sitemas opertaivos y algunos pogramasrequieren una compilacion especifica.
+
+2.- puede soportar difentes tipos como lo son:oracle, ubuntu, windows host, macOs, linux, solaris.
+
+3.-Un hipervisor permite que un ordenador soporte a varias maquinas mediante el uso compartido
+   virtual de sus recursos, como la memoria y el procesamiento.
+
+4.-no porque estan aisladas.  
